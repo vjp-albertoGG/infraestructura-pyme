@@ -1,2 +1,1 @@
-\# Documentacion LAMP - Version B
-
+# Proyecto de Infraestructura y Documentacion LAMP - Version Definitiva
