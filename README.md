@@ -1,2 +1,1 @@
-\# Proyecto de Infraestructura - Version A
-
+# Proyecto de Infraestructura y Documentacion LAMP - Version Definitiva
