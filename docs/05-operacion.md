@@ -16,3 +16,5 @@
 
 2\. Actualizar el sistema base con `apt update \&\& apt upgrade`.
 
+3. Revisar estadísticas de tráfico en el panel web de HAProxy.
+
