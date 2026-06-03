@@ -10,3 +10,5 @@
 
 \* \*\*Puerto 19999\*\*: Panel de monitorización Netdata.
 
+\* \*\*Puerto 80\*\*: Balanceador HAProxy (redirige el tráfico al servidor Apache interno).
+
